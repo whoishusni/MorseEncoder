@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Morse Encoder</string>
+    <string name="teks_biasa">Teks Biasa</string>
+    <string name="about">About</string>
+    <string name="teks_morse">Teks Morse</string>
+    <string name="share">Share</string>
+    <string name="alphabet_morse">Alphabet Morse</string>
+    <string name="morse_kode">morse_kode</string>
+    <string name="kopi">kopi</string>
+    <string name="bagi">bagi</string>
+    <string name="encodetombol">encodeTombol</string>
+    <string name="tongsampah">tongsampah</string>
+    <string name="isi_teks_yang_mau_diterjemahkan">isi teks yang mau diterjemahkan</string>
+    <string name="gambar_splash">gambar_splash</string>
+    <string name="versi">Versi</string>
+    <string name="_1_0">2.2</string>
+    <string name="moh_husni_mubaraq">Moh Husni Mubaraq</string>
+    <string name="designer">Designer</string>
+    <string name="developer">Developer</string>
+    <string name="contact">Contact (Click Icon Below)</string>
+    <string name="aons">Association Of Ngatabaru Student - Yogyakarta</string>
+    <string name="supporter">Supporter</string>
+    <string name="gambaremail">gambaremail</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="gambarpetunjuk">gambarpetunjuk</string>
+    <string name="hasil_text_morse">Hasil Text Morse</string>
+    <string name="kirim_email">Kirim Email</string>
+    <string name="ig_aons_jogja">IG: Aons Jogja</string>
+    <string name="my_instagram">My Instagram</string>
+</resources>
